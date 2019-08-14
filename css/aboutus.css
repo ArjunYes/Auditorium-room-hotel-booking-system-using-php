@@ -1,0 +1,99 @@
+     body{
+        background: #ffffff ;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        
+     }
+     
+   .q3{
+         position: absolute;
+         font-family: 'Abel', sans-serif;
+         right: 0px;
+         bottom: 0px;
+         font-family: Arial;
+         color: black;
+         font-size: 15px;
+         font-weight: lighter;
+         margin-right: 18px;
+     }
+     
+     .innerbox1{
+         
+      width: 400px;
+      height: 250px;
+      position: absolute;
+      margin-left: 760px;
+      top: 0px;
+      margin-top: 0px;
+      border-radius: 10px;
+      background: #f5f5dc; 
+      background-image: url("loc.gif");
+      background-position: center;
+      background-size: 533px 400px;
+      
+    }
+    
+    .innerbox2{
+         
+      width: 450px;
+      height: 380px;
+      position: absolute;
+      margin-top: 270px;
+      margin-left: 100px;
+      border-radius: 10px;
+      background: #f5f5dc; 
+      background-image: url("fav1.gif");
+      background-size: 800px 600px;
+      background-position: center;
+      
+    }
+    
+    .q1{
+         color: #ff1919;
+         margin-left: 200px;
+         font-size: 50px;
+         position: absolute;
+         padding-top: 20px;
+         font-family: 'Abel', sans-serif;
+         
+     }
+     
+     .q2{
+         color: #ff1919;
+         margin-left: 800px;
+         font-size: 50px;
+         position: absolute;
+         padding-top: 220px;
+         font-family: 'Abel', sans-serif;
+         
+     }
+     
+     .q4{
+         color: #e5e500;
+         margin-left: 800px;
+         font-size: 50px;
+         position: absolute;
+         padding-top: 270px;
+         font-family: 'Abel', sans-serif;
+         
+     }
+     
+     .para1{
+          margin-left: 200px;
+          margin-top: 120px;
+         font-family: 'Abel', sans-serif;
+         position: absolute;
+         width:400px;
+         height:400px;
+         
+     }
+     .para2{
+          margin-left: 800px;
+          margin-top: 370px;
+         font-family: 'Abel', sans-serif;
+         position: absolute;
+         width:400px;
+         height:400px;
+         
+     }
